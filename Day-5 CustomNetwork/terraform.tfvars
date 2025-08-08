@@ -1,0 +1,8 @@
+publicami ="ami-08a6efd148b1f7504"
+privateami = "ami-084a7d336e816906b"
+publictype = "t2.micro"
+privatetype = "t2.micro"
+vpc_cidr_block = "10.0.0.0/16"
+vpc_name       = "custom-vpc"
+public_subnet_cidr = "10.0.1.0/24"
+private_subnet_cidr   = "10.0.2.0/24"
